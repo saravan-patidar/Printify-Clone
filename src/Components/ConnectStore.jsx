@@ -34,7 +34,7 @@ const ConnectStore = () => {
 
                 </div>
                 <div className=' md:p-10' >
-                    <div className='flex justify-between bg-gray-300 rounded-2xl bg-talk-sales bg-no-repeat bg-right sm:p-10 border'>
+                    <div className='flex justify-between bg-gray-300 rounded-2xl bg-[url(../../public/talkToSale.svg)] bg-no-repeat bg-right sm:p-10 border'>
                         <h4 className='text-2xl text-green-800'>Are you a large business looking for custom solutions?</h4>
                         <PrimaryButton text='Talk To Sales'/>
                     </div>

@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-background': "url('./src/assets/background-hero.svg')",
-        'talk-sales': "url('./src/assets/talkToSale.svg')",
+        // 'hero-background': "url('background-hero.svg')",
+        // 'talk-sales': "url('talkToSale.svg')",
       }
     },
   },
