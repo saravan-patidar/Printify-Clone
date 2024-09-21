@@ -6,7 +6,7 @@ import shirtImg from '../assets/img_5.png';
 const HeroSection = () => {
     return (
         <section className='md:container  mt-32  mx-auto p-4'>
-            <div className='bg-[url(../../public/background-hero.svg)] bg-no-repeat sm:bg-right-bottom bg-right-bottom p-10'>
+            <div className='bg-[url(./assets/background-hero.svg)] bg-no-repeat sm:bg-right-bottom bg-right-bottom p-10'>
                 <div className='flex flex-col sm:flex-row justify-between items-center '>
                     <div className='sm:w-1/2 md:w-2/5 space-y-3'>
                         <h1 className='text-3xl md:text-5xl font-extrabold'>Create and sell custom products </h1>
