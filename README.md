@@ -1,3 +1,8 @@
+# I build clone of Printify.com
+i used react and tailwind css to build this homepage.
+Its is live url here to check - https://saravan-printify-clone.netlify.app/
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
